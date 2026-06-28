@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="IPTV-EPG.org" source-info-url="https://iptv-epg.org">
+
+<channel id="AandE.br">
+    <display-name>BR - AE</display-name>
+    <icon src="https://iptv-epg.org/images/W6_TKw7_WLthLU59silVhAapG1sbuZWOfxwBOBTuAnOdW-6-8ppkCbdOx0BAcYM-vCMkENRLsC_DAkMkt0baiz2RY6Kz4_usod9aRn7d"/>
+  </channel>
+<channel id="AandE.br">
+    <display-name>BR - AE</display-name>
+    <icon src="https://iptv-epg.org/images/W6_TKw7_WLthLU59silVhAapG1sbuZWOfxwBOBTuAnOdW-6-8ppkCbdOx0BAcYM-vCMkENRLsC_DAkMkt0baiz2RY6Kz4_usod9aRn7d"/>
+  </channel>
+  <channel id="AandE.br">
+    <display-name>BR - AE</display-name>
+    <icon src="https://iptv-epg.org/images/W6_TKw7_WLthLU59silVhAapG1sbuZWOfxwBOBTuAnOdW-6-8ppkCbdOx0BAcYM-vCMkENRLsC_DAkMkt0baiz2RY6Kz4_usod9aRn7d"/>
+  </channel>
+  <channel id="AnimalPlanet.br">
+    <display-name>ANIMAL PLANET HD</display-name>
+    <icon src="https://iptv-epg.org/images/RQal8StQa-cJV-yi3DxT3P_xueWj4mDGBZjBI0VWAhI5MmtXj7TC0NPJfC7jIk5dJKwnWxkl7zApAI0ixlHQn_X4J1VTjGdturNIeADJE-mqyElzSQ"/>
+  </channel>
+   <channel id="AnimalPlanet.br">
+    <display-name>ANIMAL PLANET HD</display-name>
+    <icon src="https://iptv-epg.org/images/RQal8StQa-cJV-yi3DxT3P_xueWj4mDGBZjBI0VWAhI5MmtXj7TC0NPJfC7jIk5dJKwnWxkl7zApAI0ixlHQn_X4J1VTjGdturNIeADJE-mqyElzSQ"/>
+  </channel>
+ <channel id="AXN.br">
+    <display-name>AXN HD</display-name>
+    <icon src="https://iptv-epg.org/images/S2fULxieTpLg4xnj8UZXMSj3eRyENSFsKa340SXe8e4GGdXT6JQ7gpo6gsgCkKHElYJYJFYNrmZldK7mm6pMfozgEgzksT_jHzvxbg"/>
+  </channel>
+   <channel id="AXN.br">
+    <display-name>AXN HD</display-name>
+    <icon src="https://iptv-epg.org/images/S2fULxieTpLg4xnj8UZXMSj3eRyENSFsKa340SXe8e4GGdXT6JQ7gpo6gsgCkKHElYJYJFYNrmZldK7mm6pMfozgEgzksT_jHzvxbg"/>
+  </channel>
+  <channel id="BandRJ.br">
+    <display-name>Band RJ</display-name>
+    <icon src="https://iptv-epg.org/images/3VC3sND4ednsAsKHwyg_vRgfJ_Q6s_47g-MColQasseyvOuD0veDip0-VCebVoevcQ0y6lKM-HI29ClMiLa-HgLQlpaSHNKUny4crKCZ4Q"/>
+  </channel>
+<channel id="BandSports.br">
+    <display-name>BandSports</display-name>
+    <icon src="https://iptv-epg.org/images/aKjFji2hePSWEkx2Jz5ZI06xBzgYSTzJYz64wKp4GDCHuWBm6dfFhAPYBy9NNRavTyfhwCS-wM9H7-QpNU4qZV7dE3KqCwyF3zwXqCpT_1U4vNQ"/>
+  </channel>
+  <channel id="BIS.br">
+    <display-name>BIS</display-name>
+    <icon src="https://iptv-epg.org/images/Vb8DLmVZYD61Zvw1T03RVdbE7cgYaBRI3tAsPYyb6ONz9XdTVA-XyPfxrh2r2B1RQuHMbWS2-CWjlrf5LO-327AmMcq9j_zsRAfCgQ"/>
+  </channel>
+<channel id="CNNBrasil.br">
+    <display-name>CNN Brasil</display-name>
+    <icon src="https://iptv-epg.org/images/tBVpwfYcZK2qy8NBFMQX46Z6CN7sAi2HRHwTABmHCS24NTsLxOihM88JSWb7_wyEtPvghbZcQ3fdPMjNC_qbd3ZVcDaQkM_aRqdrqf7u5rI4qA"/>
+  </channel>
+  <channel id="CartoonNetwork.br">
+    <display-name>Cartoon Network</display-name>
+    <icon src="https://iptv-epg.org/images/s2rzARxRZTIsYneNcs7czDS_E6LoaTzg50a5g8Vtu5SJDJElCs7jaX_LxUMUkfULRT-p95AYIgpEwLwYniDJ439i8wzjkFALx9yMJbFy1bZzF_0q0QH-"/>
+  </channel>
+  <channel id="Cartoonito.br">
+    <display-name>Cartoonito</display-name>
+    <icon src="https://iptv-epg.org/images/B2G6yAhrD9YC5pLDIN_EAI7Y6ou1raFH0xESqyh19v-gsZzQwjdN7BQiZGXSk-sRHkPpoJgM5A7dbwN7e_B_uPFmZ_JEC3iBrtdBTUZ67RHwHeY"/>
+  </channel>
+  <channel id="Cinemax.br">
+    <display-name>CINEMAX</display-name>
+    <icon src="https://iptv-epg.org/images/kBJVU7rQ34Gqs8WWZc8tokajcuS3A8P8gtRaGndL10VUzaCYGt5BMyvkFk0O89_xU4P2cC1yLfQk-LJ8R5dfTip_hnUrKTuBaWdKgtKzRV0"/>
+  </channel>
+  <channel id="DiscoveryChannel.br">
+    <display-name>DISCOVERY CHANNEL HD</display-name>
+    <icon src="https://iptv-epg.org/images/SbRrdzf5tDGVxBFJC17uE9or6cRL5CYwzHa4b1yhFVnHwg2UaVlgqW2mSpMMwkqSSoUydIMtNQm_HkWtSMpmeRznaB4v5OWxp-RYDnUS0U8wUytxlSgQLkU"/>
+  </channel><channel id="DiscoveryChannel.br">
+    <display-name>DISCOVERY CHANNEL HD</display-name>
+    <icon src="https://iptv-epg.org/images/SbRrdzf5tDGVxBFJC17uE9or6cRL5CYwzHa4b1yhFVnHwg2UaVlgqW2mSpMMwkqSSoUydIMtNQm_HkWtSMpmeRznaB4v5OWxp-RYDnUS0U8wUytxlSgQLkU"/>
+  </channel><channel id="DiscoveryChannel.br">
+    <display-name>DISCOVERY CHANNEL HD</display-name>
+    <icon src="https://iptv-epg.org/images/SbRrdzf5tDGVxBFJC17uE9or6cRL5CYwzHa4b1yhFVnHwg2UaVlgqW2mSpMMwkqSSoUydIMtNQm_HkWtSMpmeRznaB4v5OWxp-RYDnUS0U8wUytxlSgQLkU"/>
+  </channel>
+  <channel id="DiscoveryChannel.br">
+    <display-name>DISCOVERY CHANNEL HD</display-name>
+    <icon src="https://iptv-epg.org/images/SbRrdzf5tDGVxBFJC17uE9or6cRL5CYwzHa4b1yhFVnHwg2UaVlgqW2mSpMMwkqSSoUydIMtNQm_HkWtSMpmeRznaB4v5OWxp-RYDnUS0U8wUytxlSgQLkU"/>
+  </channel>
+  </channel>
+  <channel id="DiscoveryHomeandHealth.br">
+    <display-name>DISCOVERY HOME & HEALTH HD</display-name>
+    <icon src="https://iptv-epg.org/images/zoAMNwi6lPtp890AxRvn5ZI6czB1jLpPUqh7rPftvKg7icrn0nb0Wifu-Hh5yIRugAnESnf6rqSnD5zVyLqwGbUINWa9AMCZ9FKhwY_t7Q-YalDouMsGuKypaIojtVI"/>
+  </channel>
+  </channel>
+  <channel id="DiscoveryHomeandHealth.br">
+    <display-name>DISCOVERY HOME & HEALTH HD</display-name>
+    <icon src="https://iptv-epg.org/images/zoAMNwi6lPtp890AxRvn5ZI6czB1jLpPUqh7rPftvKg7icrn0nb0Wifu-Hh5yIRugAnESnf6rqSnD5zVyLqwGbUINWa9AMCZ9FKhwY_t7Q-YalDouMsGuKypaIojtVI"/>
+  </channel>
+  </channel>
+  <channel id="DiscoveryHomeandHealth.br">
+    <display-name>DISCOVERY HOME & HEALTH HD</display-name>
+    <icon src="https://iptv-epg.org/images/zoAMNwi6lPtp890AxRvn5ZI6czB1jLpPUqh7rPftvKg7icrn0nb0Wifu-Hh5yIRugAnESnf6rqSnD5zVyLqwGbUINWa9AMCZ9FKhwY_t7Q-YalDouMsGuKypaIojtVI"/>
+  </channel>
+  </channel>
+  <channel id="DiscoveryHomeandHealth.br">
+    <display-name>DISCOVERY HOME & HEALTH HD</display-name>
+    <icon src="https://iptv-epg.org/images/zoAMNwi6lPtp890AxRvn5ZI6czB1jLpPUqh7rPftvKg7icrn0nb0Wifu-Hh5yIRugAnESnf6rqSnD5zVyLqwGbUINWa9AMCZ9FKhwY_t7Q-YalDouMsGuKypaIojtVI"/>
+  </channel>
+  </channel>
+  <channel id="DiscoveryHomeandHealth.br">
+    <display-name>DISCOVERY HOME & HEALTH HD</display-name>
+    <icon src="https://iptv-epg.org/images/zoAMNwi6lPtp890AxRvn5ZI6czB1jLpPUqh7rPftvKg7icrn0nb0Wifu-Hh5yIRugAnESnf6rqSnD5zVyLqwGbUINWa9AMCZ9FKhwY_t7Q-YalDouMsGuKypaIojtVI"/>
+  </channel>
+</tv>
